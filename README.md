@@ -1,5 +1,7 @@
 # neki osnovni tekst
 # Fatma Hana Memisevic
 # OVO SU JAKO PRIVATNE INFORMACIJE O MENI!!!
+#evo jos nekih dodatnih informacijaaaa
 
-# novi komentari u main grani
+#dodajemo novo da radimo sa konfliktima hajmo jako 
+
