@@ -4,3 +4,4 @@
 #evo jos nekih dodatnih informacijaaaa
 
 #dodajemo novo da radimo sa konfliktima hajmo jako 
+# evo jedne promjene za pull request
