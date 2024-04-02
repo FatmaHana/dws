@@ -1,1 +1,1 @@
-# dws
+# neki osnovni tekst
